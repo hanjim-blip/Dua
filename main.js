@@ -3,11 +3,11 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://s.shopee.co.id/3Vk0N7YnVy", "_blank")
+    window.open("https://vt.tokopedia.com/t/ZS9S9HrG2DWpV-En3kP/", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://vt.tokopedia.com/t/ZS9hF44oJNj34-VNvrA/");
+    window.open("https://s.shopee.co.id/3Vk0N7YnVy");
 }
 
 function openFacebookPage() {
